@@ -2,4 +2,4 @@ Test file
 
 Changes are made in my feature branch
 
-addon
+addon-day2
